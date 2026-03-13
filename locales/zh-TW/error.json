@@ -18,8 +18,8 @@
             "description": "您尋找的賽事不存在或已被移除。"
         },
         "team-not-found": {
-            "title": "未找到戰隊",
-            "description": "您尋找的戰隊不存在或已被移除。"
+            "title": "未找到隊伍",
+            "description": "您尋找的隊伍不存在或已被移除。"
         },
         "match-not-found": {
             "title": "未找到比賽",
